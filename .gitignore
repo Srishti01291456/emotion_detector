@@ -1,0 +1,19 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Dataset (TOO BIG FOR GITHUB - MUST IGNORE)
+data/fer2013.csv
+
+# Virtual environments
+emotion_detector/
+venv/
+env/
+
+# IDE folders
+.vscode/
+.idea/
+
+# OS junk
+.DS_Store
+Thumbs.db
