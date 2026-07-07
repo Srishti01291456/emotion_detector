@@ -31,3 +31,10 @@ emotion_detector/
 │   └── app.py                   # Streamlit web application
 ├── README.md                    
 └── requirements.txt             # All project dependencies
+
+## 📷 Demo
+<img width="560" height="482" alt="WhatsApp Image 2026-07-08 at 02 19 54" src="https://github.com/user-attachments/assets/b8d98ed6-dc83-4614-a9a4-eac66d0588fd" />
+<img width="631" height="506" alt="WhatsApp Image 2026-07-08 at 02 19 27" src="https://github.com/user-attachments/assets/f061fccf-249f-42b5-ad9c-feb205460d34" />
+<img width="1102" height="649" alt="WhatsApp Image 2026-07-08 at 02 23 40" src="https://github.com/user-attachments/assets/b5d3863a-29a0-42ac-ac39-ea6ed2dc82ae" />
+<img width="1040" height="257" alt="WhatsApp Image 2026-07-08 at 02 24 37" src="https://github.com/user-attachments/assets/cede098e-52ba-410c-8309-6b4753265b0b" />
+<img width="938" height="606" alt="WhatsApp Image 2026-07-08 at 02 24 08" src="https://github.com/user-attachments/assets/3970af01-c63c-4350-9f23-7ca38b58441a" />
